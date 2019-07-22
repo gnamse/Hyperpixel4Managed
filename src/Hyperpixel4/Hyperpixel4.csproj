@@ -10,7 +10,6 @@
     <ProjectReference Include="..\Hyperpixel4Managed\Hyperpixel4Managed.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <RuntimeHostConfigurationOption Include="System.Globalization.Invariant" Value="true" />
     <PackageReference Include="Packaging.Targets" Version="0.1.56" />
   </ItemGroup>
 </Project>
