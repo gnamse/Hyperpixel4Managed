@@ -10,6 +10,6 @@
     <ProjectReference Include="..\Hyperpixel4Managed\Hyperpixel4Managed.csproj" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Packaging.Targets" Version="0.1.56" />
+    <PackageReference Include="Packaging.Targets" Version="0.1.80" />
   </ItemGroup>
 </Project>
